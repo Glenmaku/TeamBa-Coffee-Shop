@@ -171,6 +171,9 @@ section{
     flex-wrap: wrap;
     gap:1.5rem;
 }
+.about .row label{
+    text-transform: none;
+}
 
 .about .row .image{
     flex:1 1 42rem;
